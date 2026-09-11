@@ -1,0 +1,15 @@
+{
+  "name": "plasma-engine-7368",
+  "version": "0.1.0",
+  "generator": "PushForge Engine",
+  "capabilities": [
+    "ideate",
+    "compose",
+    "commit"
+  ],
+  "manifest": {
+    "entry": "src/index.ts",
+    "seed": 1409,
+    "createdAt": "2026-09-11T12:49:42.305Z"
+  }
+}
